@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">964213022638-1dieosek9fjqtlhm6aiak1u9k4a56jk8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">964213022638</string>
+    <string name="google_api_key" translatable="false">AIzaSyBuLbkwIr132Okj-E2r3siplb1UTe1YzUM</string>
+    <string name="google_app_id" translatable="false">1:964213022638:android:a3e91ab4b190e5e6da323f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBuLbkwIr132Okj-E2r3siplb1UTe1YzUM</string>
+    <string name="google_storage_bucket" translatable="false">socio-connect-ee19d.appspot.com</string>
+    <string name="project_id" translatable="false">socio-connect-ee19d</string>
+</resources>

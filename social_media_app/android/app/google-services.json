@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964213022638",
+    "project_id": "socio-connect-ee19d",
+    "storage_bucket": "socio-connect-ee19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964213022638:android:a3e91ab4b190e5e6da323f",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964213022638-rph4gtu56is04t8fbb325nt5u30j5m1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_app",
+            "certificate_hash": "09eec24e89808060aadcf40d9a1c81064cc98f4b"
+          }
+        },
+        {
+          "client_id": "964213022638-1dieosek9fjqtlhm6aiak1u9k4a56jk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuLbkwIr132Okj-E2r3siplb1UTe1YzUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964213022638-1dieosek9fjqtlhm6aiak1u9k4a56jk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

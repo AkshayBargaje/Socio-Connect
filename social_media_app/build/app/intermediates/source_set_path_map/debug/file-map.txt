@@ -1,0 +1,55 @@
+com.example.social_media_app-jetified-window-1.0.0-beta04-0 C:\Users\aksha\.gradle\caches\transforms-3\003a22a5515e1f77f89701a46efbc2ec\transformed\jetified-window-1.0.0-beta04\res
+com.example.social_media_app-jetified-lifecycle-viewmodel-savedstate-2.6.1-1 C:\Users\aksha\.gradle\caches\transforms-3\04893cd2503497ff301071e96c8684d2\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.social_media_app-core-1.10.1-2 C:\Users\aksha\.gradle\caches\transforms-3\17c44a9ee9728471e88635da67cac57c\transformed\core-1.10.1\res
+com.example.social_media_app-localbroadcastmanager-1.1.0-3 C:\Users\aksha\.gradle\caches\transforms-3\18f05349582872173d5f471cc7f25d10\transformed\localbroadcastmanager-1.1.0\res
+com.example.social_media_app-jetified-play-services-basement-18.2.0-4 C:\Users\aksha\.gradle\caches\transforms-3\2c79f1bef2248086e00abbcc39fc0574\transformed\jetified-play-services-basement-18.2.0\res
+com.example.social_media_app-jetified-window-java-1.0.0-beta04-5 C:\Users\aksha\.gradle\caches\transforms-3\3c0e35d493ccd3f2bb8b07f96b013b9c\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.social_media_app-jetified-annotation-experimental-1.3.0-6 C:\Users\aksha\.gradle\caches\transforms-3\3c4bea41a39e2ef91e4e90c0edbcdf3e\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.social_media_app-browser-1.4.0-7 C:\Users\aksha\.gradle\caches\transforms-3\3df77d3f0e42ee5d73cdfadb8bcdc01c\transformed\browser-1.4.0\res
+com.example.social_media_app-media-1.0.0-8 C:\Users\aksha\.gradle\caches\transforms-3\3ec4cd359258c60be14fe77b7d91d557\transformed\media-1.0.0\res
+com.example.social_media_app-jetified-startup-runtime-1.1.1-9 C:\Users\aksha\.gradle\caches\transforms-3\408fee4ac8da76fdf24102328ceae444\transformed\jetified-startup-runtime-1.1.1\res
+com.example.social_media_app-jetified-firebase-messaging-23.2.0-10 C:\Users\aksha\.gradle\caches\transforms-3\561108e0254e22f31f4ca1d785a910f1\transformed\jetified-firebase-messaging-23.2.0\res
+com.example.social_media_app-lifecycle-livedata-core-2.6.1-11 C:\Users\aksha\.gradle\caches\transforms-3\64b8ffec8dd4154ac1e3614196f8ec4b\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.social_media_app-jetified-rtm-sdk-1.5.3-12 C:\Users\aksha\.gradle\caches\transforms-3\6aec6034bfd02f6a1355fec250ac7e7a\transformed\jetified-rtm-sdk-1.5.3\res
+com.example.social_media_app-lifecycle-livedata-2.6.1-13 C:\Users\aksha\.gradle\caches\transforms-3\8b22212788e0b8d25a3b771e8985e15c\transformed\lifecycle-livedata-2.6.1\res
+com.example.social_media_app-jetified-activity-1.7.2-14 C:\Users\aksha\.gradle\caches\transforms-3\8f243fb3206509199e457d6fc7695a07\transformed\jetified-activity-1.7.2\res
+com.example.social_media_app-jetified-play-services-auth-20.6.0-15 C:\Users\aksha\.gradle\caches\transforms-3\918cb06e51324739c81e14c01dcd5d76\transformed\jetified-play-services-auth-20.6.0\res
+com.example.social_media_app-jetified-appcompat-resources-1.1.0-16 C:\Users\aksha\.gradle\caches\transforms-3\945b5e3cee108e4a12f07646d807d4fa\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.social_media_app-jetified-firebase-common-20.3.3-17 C:\Users\aksha\.gradle\caches\transforms-3\97ba536cb97715cf3a6afeff735547bd\transformed\jetified-firebase-common-20.3.3\res
+com.example.social_media_app-jetified-core-ktx-1.10.1-18 C:\Users\aksha\.gradle\caches\transforms-3\b07364c9ba41f48fb110deff927d2342\transformed\jetified-core-ktx-1.10.1\res
+com.example.social_media_app-jetified-savedstate-1.2.1-19 C:\Users\aksha\.gradle\caches\transforms-3\b253abfc747a638a3e44a31d80beb1c5\transformed\jetified-savedstate-1.2.1\res
+com.example.social_media_app-lifecycle-viewmodel-2.6.1-20 C:\Users\aksha\.gradle\caches\transforms-3\b3d73607d96030893210d8ac7d317700\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.social_media_app-core-runtime-2.2.0-21 C:\Users\aksha\.gradle\caches\transforms-3\c3d1a040da39b00577728d316d17148e\transformed\core-runtime-2.2.0\res
+com.example.social_media_app-jetified-hyphenate-chat-4.0.1-22 C:\Users\aksha\.gradle\caches\transforms-3\c962bd24c1d829ced4730ddbd8824d9b\transformed\jetified-hyphenate-chat-4.0.1\res
+com.example.social_media_app-jetified-profileinstaller-1.3.0-23 C:\Users\aksha\.gradle\caches\transforms-3\daa6fd84a99b300a5ffb02c37f933674\transformed\jetified-profileinstaller-1.3.0\res
+com.example.social_media_app-coordinatorlayout-1.0.0-24 C:\Users\aksha\.gradle\caches\transforms-3\daf3dffc0e005e5234f8ec4fc9f09fb6\transformed\coordinatorlayout-1.0.0\res
+com.example.social_media_app-appcompat-1.1.0-25 C:\Users\aksha\.gradle\caches\transforms-3\f047ce2f40a5249107762e45ae138823\transformed\appcompat-1.1.0\res
+com.example.social_media_app-jetified-play-services-base-18.0.1-26 C:\Users\aksha\.gradle\caches\transforms-3\f253648b0be692c533908993735bbd2e\transformed\jetified-play-services-base-18.0.1\res
+com.example.social_media_app-lifecycle-runtime-2.6.1-27 C:\Users\aksha\.gradle\caches\transforms-3\fd2525d8e729e998fcd94c2fe920a70e\transformed\lifecycle-runtime-2.6.1\res
+com.example.social_media_app-debug-28 D:\Projects\flutter projects\social_media_app\android\app\src\debug\res
+com.example.social_media_app-main-29 D:\Projects\flutter projects\social_media_app\android\app\src\main\res
+com.example.social_media_app-packaged_res-30 D:\Projects\flutter projects\social_media_app\build\agora_chat_sdk\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-31 D:\Projects\flutter projects\social_media_app\build\agora_rtm\intermediates\packaged_res\debug
+com.example.social_media_app-google-services-32 D:\Projects\flutter projects\social_media_app\build\app\generated\res\google-services\debug
+com.example.social_media_app-pngs-33 D:\Projects\flutter projects\social_media_app\build\app\generated\res\pngs\debug
+com.example.social_media_app-resValues-34 D:\Projects\flutter projects\social_media_app\build\app\generated\res\resValues\debug
+com.example.social_media_app-rs-35 D:\Projects\flutter projects\social_media_app\build\app\generated\res\rs\debug
+com.example.social_media_app-mergeDebugResources-36 D:\Projects\flutter projects\social_media_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.social_media_app-mergeDebugResources-37 D:\Projects\flutter projects\social_media_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.social_media_app-merged_res-38 D:\Projects\flutter projects\social_media_app\build\app\intermediates\merged_res\debug
+com.example.social_media_app-packaged_res-39 D:\Projects\flutter projects\social_media_app\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-40 D:\Projects\flutter projects\social_media_app\build\emoji_picker_flutter\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-41 D:\Projects\flutter projects\social_media_app\build\firebase_auth\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-42 D:\Projects\flutter projects\social_media_app\build\firebase_core\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-43 D:\Projects\flutter projects\social_media_app\build\firebase_messaging\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-44 D:\Projects\flutter projects\social_media_app\build\firebase_storage\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-45 D:\Projects\flutter projects\social_media_app\build\flutter_phone_direct_caller\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-46 D:\Projects\flutter projects\social_media_app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-47 D:\Projects\flutter projects\social_media_app\build\flutter_webrtc\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-48 D:\Projects\flutter projects\social_media_app\build\gallery_saver\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-49 D:\Projects\flutter projects\social_media_app\build\google_sign_in_android\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-50 D:\Projects\flutter projects\social_media_app\build\image_picker_android\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-51 D:\Projects\flutter projects\social_media_app\build\path_provider_android\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-52 D:\Projects\flutter projects\social_media_app\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-53 D:\Projects\flutter projects\social_media_app\build\sqflite\intermediates\packaged_res\debug
+com.example.social_media_app-packaged_res-54 D:\Projects\flutter projects\social_media_app\build\url_launcher_android\intermediates\packaged_res\debug
